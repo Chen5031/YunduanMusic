@@ -1,0 +1,6 @@
+@import "/templete/myTemplate/myTemplate.wxss";
+.otherTitle{
+  font-size: 50rpx;
+  font-weight: bold;
+  color: red;
+}
